@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Grzegorz Dzięgielewski 👋</h1>
 
 <p align="center">
-  Software engineer based in Kraków, Poland · currently at <b>Novomatic Technologies Poland</b>
+  Kubernetes Engineer based in Kraków, Poland · currently at <b>Novomatic Technologies Poland</b>
 </p>
 
 <p align="center">
@@ -14,25 +14,19 @@
 
 ## About me
 
-I build software, run a self-hosted Kubernetes homelab the GitOps way, and design small
-ESP-based hardware in my spare time. Lately I've been spending a lot of time on AI-assisted
-development tooling: agent configs, skills and self-hosted memory for coding assistants.
+I'm a Kubernetes Engineer: I design, build and run Kubernetes platforms, and I'm just as
+comfortable on the software side, writing the tools and services that run on them. At home I
+run a self-hosted Kubernetes homelab the GitOps way and design small ESP-based hardware. Lately
+I've been spending a lot of time on AI-assisted engineering tooling: agent configs, skills and
+self-hosted memory for coding assistants.
 
+- ☸️ **Kubernetes & platform**: cluster lifecycle, GitOps, Helm, secrets management, automated upgrades
 - 🏠 **Homelab & GitOps**: Talos Linux, Flux CD, Ansible, SealedSecrets, `age`, Renovate
 - 🤖 **AI tooling**: OpenCode / Claude Code configs, agent skills, MCP servers
 - 🔌 **Hardware**: KiCad PCBs for ESP8266 / ESP-01 / Wemos D1 mini, ESPHome, Home Assistant
 - 🐍 **Code**: mostly Python, Shell, Go templates, TypeScript and Dart
 
 ## Tech stack
-
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell">
-<img src="https://img.shields.io/badge/Go_templates-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go templates">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua">
 
 **Infrastructure & DevOps**
 <br>
@@ -44,6 +38,15 @@ development tooling: agent configs, skills and self-hosted memory for coding ass
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Renovate-1A1F6C?style=flat-square&logo=renovate&logoColor=white" alt="Renovate">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
+
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell">
+<img src="https://img.shields.io/badge/Go_templates-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go templates">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua">
 
 **Apps & data**
 <br>
